@@ -1,4 +1,4 @@
-CREATE DATABASE Project;
+CREATE DATABASE sql;
 
 -- Create company_dim table with primary key
 CREATE TABLE public.company_dim
